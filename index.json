@@ -1,42 +1,37 @@
 [
   {
+    "name": "Mobile Display Stand",
+    "url": "https://megadrum.myshopify.com/products/mobile-display-stand-for-smartphones",
+    "image": "https://megadrum.myshopify.com/cdn/shop/files/7291013470631064805_2048.jpg?v=1710688217&width=300"
+  },
+  {
+    "name": "Blackwater Outdoor Bluetooth Speaker",
+    "url": "https://megadrum.myshopify.com/products/blackwater-outdoor-bluetooth-speaker",
+    "image": "https://megadrum.myshopify.com/cdn/shop/files/5821049346696207151_2048.jpg?v=1710688119&width=300"
+  },
+  {
+    "name": "Pin Buttons",
+    "url": "https://megadrum.myshopify.com/products/custom-pin-buttons",
+    "image": "https://megadrum.myshopify.com/cdn/shop/files/9532334217173364658_2048.jpg?v=1710688997&width=300"
+  },
+  {
+    "name": "Kiss-Cut Stickers",
+    "url": "https://megadrum.myshopify.com/products/kiss-cut-stickers",
+    "image": "https://megadrum.myshopify.com/cdn/shop/files/1229480463669145709_1200.jpg?v=1710688782&width=300"
+  },
+  {
     "name": "T-shirt Unisex",
     "url": "https://megadrum.myshopify.com/products/unisex-jersey-short-sleeve-tee",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/3655416244418118085_2048.jpg?width=300"
+    "image": "https://megadrum.myshopify.com/cdn/shop/files/3655416244418118085_2048.jpg?v=1710002066&width=300"
   },
   {
-    "name": "Unisex T-Shirt 2",
-    "url": "https://megadrum.myshopify.com/products/unisex-softstyle-t-shirt",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/12372994520579018027_2048.jpg?width=300"
-  },
-  {
-    "name": "Unisex Sweatshirt",
-    "url": "https://megadrum.myshopify.com/products/unisex-heavy-blend%E2%84%A2-crewneck-sweatshirt",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/6036340489996719473_2048.jpg?width=300"
-  },
-  {
-    "name": "Spiral Bound Journal",
-    "url": "https://megadrum.myshopify.com/products/spiral-bound-journal-mega-drum",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/15231315275189820608_2048.jpg?width=300"
-  },
-  {
-    "name": "Drawstring Bag",
-    "url": "https://megadrum.myshopify.com/products/drawstring-bag-mega-drum",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/3049092606504847857_2048.jpg?width=300"
-  },
-  {
-    "name": "Desk Mats",
-    "url": "https://megadrum.myshopify.com/products/desk-mats",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/3407670381931124192_2048.jpg?width=300"
-  },
-  {
-    "name": "Accent Coffee Mug 11oz",
+    "name": "Coffee Mug",
     "url": "https://megadrum.myshopify.com/products/accent-coffee-mug-11oz",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/14816425617800777642_2048.jpg?width=300"
+    "image": "https://megadrum.myshopify.com/cdn/shop/files/17367169385874900092_2048.jpg?v=1710019782&width=300"
   },
   {
-    "name": "Children's T-Shirt Mega Drum",
-    "url": "https://megadrum.myshopify.com/products/camiseta-infantil-mega-drum",
-    "image": "https://megadrum.myshopify.com/cdn/shop/files/6974706202141056689_2048.jpg?width=300"
+    "name": "Face Mask",
+    "url": "https://megadrum.myshopify.com/products/fabric-face-mask",
+    "image": "https://megadrum.myshopify.com/cdn/shop/files/4874228199599894487_2048.jpg?v=1710688849&width=300"
   }
 ]
